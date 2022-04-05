@@ -18,7 +18,6 @@
 <br/>😄&nbsp;Pronouns **He/His**
 <br/>⚡&nbsp;Fun fact **My passion on web development staterd at Tumblr, Where I had a Meme's blog**
 <br/>📫&nbsp;Reach me [marcelomotadev@gmail.com](mailto:marcelomotadev@gmail.com)
-<br/>🖥&nbsp; See my portfolio at [Building in progress](mailto:Building in progress)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
