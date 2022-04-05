@@ -6,6 +6,9 @@
 <a href="https://twitter.com/MarceloMotaDEV" target="_blank"><img src="https://img.shields.io/badge/MarceloMotaDEV-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
 <a href="https://www.instagram.com/marcelopmota_" target="_blank"><img src="https://img.shields.io/badge/marcelopmota_-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
+## 👋 Hello World
+I'am a brazilian science computer student at Universidade Federal de Sergipe.
+
 ![Profile Views](https://komarev.com/ghpvc/?username=marcelomotadev&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
@@ -23,6 +26,7 @@
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
 
 ## GitHub Analytics
 <div>
