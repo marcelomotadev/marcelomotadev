@@ -28,9 +28,9 @@ I'am a brazilian science computer student at Universidade Federal de Sergipe.
 <img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
 
-## GitHub Analytics
+## GitHub Analyticshttps:
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelomotadev&theme=default&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomotadev&theme=default&layout=compact&langs_count=5">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelomotadev&theme=default">
+<img height="180em" src="https://github-readme-stats-marcelomotadev.vercel.app/api?username=marcelomotadev&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats-marcelomotadev.vercel.app/api/top-langs/?username=marcelomotadev&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-stats-marcelomotadev.vercel.app/?user=marcelomotadev&theme=default">
 </div>
